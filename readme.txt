@@ -9,4 +9,8 @@
 
 ==2020年12月30日
 - 添加Condition部分代码
+- apt的原理：https://www.jianshu.com/p/b2eed75b9855
 
+==2020年12月31日
+- 添加Timestamp部分代码
+- 2020年马上就要结束了～～
